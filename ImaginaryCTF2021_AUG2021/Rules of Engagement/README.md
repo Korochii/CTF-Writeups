@@ -12,7 +12,7 @@ The rules are simple. If the number is divisible by two, shift it right by one. 
 ## Writeup
 
 On each iteration, we can use the rules provided to convert the array of decimal numbers to a new set of numbers, which can then be converted to an ASCII text.
-We will repeat this until the flag is found (I realised it will take 5 iterations since the first number can become 105 eventually which is equivalent to the letter 'i'.
+We will repeat this until the flag is found (I realised it will take 5 iterations since the first number can become 105 eventually which is equivalent to the letter 'i').
 
 ## Flag
 ictf{G00d_Var1abl3_Nam3s_R_Th3ir_0wn_R3ward}
